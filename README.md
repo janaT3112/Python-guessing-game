@@ -1,5 +1,5 @@
 # Number Guessing Game
-A simple python mini game in which you try to guess the number the computer has randomly chose in six attempts or less. 
+A simple python mini game in which you try to guess the number the computer has randomly chose between 0 amd 10 in six attempts or less. 
 ### Features
 - Random number selection.
 - User input and feedback on it (too high / too low).
